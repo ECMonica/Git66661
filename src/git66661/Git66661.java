@@ -20,9 +20,7 @@ public class Git66661 {
         String matricula="66661";
         
         System.out.println("Soy " + nombre + " y mi matrícula es " + matricula);
-        
-        int suelo=100;
-        
+                
           
     }
     
